@@ -19,3 +19,5 @@ for(let i = 1; i <= numero; i++){
       lista.splice(1,1)
       // imprimo la lista  
     console.log(` ${lista}`)
+
+    
